@@ -3,7 +3,7 @@ vim_work_config
 
 contains vim configuration I use
 
-0) Install Vim.
+0) Install Vim > 7.4.
 
 1) Place files:
 
